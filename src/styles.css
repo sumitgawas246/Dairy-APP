@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+.background .content{
+    position: absolute;
+    top: 35%;
+    right: 50%;
+    background: rgba(118, 158, 163, 0.5);
+    color:beige;
+    
+}
+
+.background{
+    position: relative;
+
+}
+@media only screen and (max-width: 1200px) {
+    .left, .main, .right{
+      width: 100%;
+    }
+  }
